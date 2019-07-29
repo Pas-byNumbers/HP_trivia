@@ -1,2 +1,2 @@
 # HP_trivia
-Harry Potter Trivia with FEd
+Harry Potter Trivia with Fed
